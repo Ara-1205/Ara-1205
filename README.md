@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ara-1205
+⁸- 👋 Hi, I’m Ara-1205
 - 👀 I’m interested in:
 -  Software development and engineering  
 - Web and mobile app development  
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning:
 - C, Python, and Java programming  
 - Data structures and algorithms
-- Koeran from Yonsei University
+- Korean language from Yonsei University
 - Solid Edge for 3D modeling and design(basics) 
 - Preparing for higher studies abroad in Computer Science (South Korea 🇰🇷 is the dream!) 
 - 💞️ I’m looking to collaborate on:
